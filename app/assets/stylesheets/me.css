@@ -1,0 +1,21 @@
+body{
+	font-size:18px;
+	text-align:center;
+}
+#home{
+	background-color: green;
+	color: white;
+}
+#kyle_pic{
+	height:400px;
+}
+strong{
+	color:red;
+}
+.category{
+	font-weight: bold;
+	text-decoration: underline;
+}
+u{
+	color:salmon;
+}
